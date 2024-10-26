@@ -119,6 +119,3 @@ i)	Three Layer Convolutional Neural Network using Tensorflow:	99.70%
 
 ii)	Three Layer Convolutional Neural Network using Keras and Theano: 98.75%
 
-## Test Images Classification Output:
-
-![Output a1](Outputs/output.png "Output a1")       
